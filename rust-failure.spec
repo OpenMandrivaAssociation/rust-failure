@@ -5,7 +5,7 @@
 %global crate failure
 
 Name:           rust-%{crate}
-Version:        0.1.6
+Version:        0.1.8
 Release:        1%{?dist}
 Summary:        Experimental error handling abstraction
 
